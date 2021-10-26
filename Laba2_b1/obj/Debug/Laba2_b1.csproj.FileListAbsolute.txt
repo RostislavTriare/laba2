@@ -1,0 +1,12 @@
+/Users/strawberry/Projects/Laba2_b1/Laba2_b1/bin/Debug/Laba2_b1.exe
+/Users/strawberry/Projects/Laba2_b1/Laba2_b1/bin/Debug/Laba2_b1.pdb
+/Users/strawberry/Projects/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.csproj.AssemblyReference.cache
+/Users/strawberry/Projects/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.csproj.CoreCompileInputs.cache
+/Users/strawberry/Projects/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.exe
+/Users/strawberry/Projects/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.pdb
+/Users/strawberry/Documents/Универ/ООП/LR2/(1)/Laba2_b1/Laba2_b1/bin/Debug/Laba2_b1.exe
+/Users/strawberry/Documents/Универ/ООП/LR2/(1)/Laba2_b1/Laba2_b1/bin/Debug/Laba2_b1.pdb
+/Users/strawberry/Documents/Универ/ООП/LR2/(1)/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.csproj.AssemblyReference.cache
+/Users/strawberry/Documents/Универ/ООП/LR2/(1)/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.csproj.CoreCompileInputs.cache
+/Users/strawberry/Documents/Универ/ООП/LR2/(1)/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.exe
+/Users/strawberry/Documents/Универ/ООП/LR2/(1)/Laba2_b1/Laba2_b1/obj/Debug/Laba2_b1.pdb
