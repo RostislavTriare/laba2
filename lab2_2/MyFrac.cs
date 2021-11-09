@@ -43,7 +43,12 @@ namespace Laba2_2
 
             int nom2 = 20;
             int denom2 = 17;
-
+            if (nom2 <=0){
+            nom2 = nom2 * -1
+            }
+            if (denom2 <=0){
+            denom2 = denom2 * -1
+            }
             double rez = (double)(nom1 * denom2 + nom2*denom1)/(denom1*denom2);
             return rez;
            
@@ -56,7 +61,12 @@ namespace Laba2_2
 
             int nom2 = 20;
             int denom2 = 17;
-
+if (nom2 <=0){
+            nom2 = nom2 * -1
+            }
+            if (denom2 <=0){
+            denom2 = denom2 * -1
+            }
             double rez= (double)(nom1 * denom2 - nom2 * denom1) / (denom1 * denom2);
             return rez;
 
@@ -69,7 +79,12 @@ namespace Laba2_2
 
             int nom2 = 20;
             int denom2 = 17;
-
+if (nom2 <=0){
+            nom2 = nom2 * -1
+            }
+            if (denom2 <=0){
+            denom2 = denom2 * -1
+            }
             double rez = (double)(nom1 *  nom2 ) / (denom1 * denom2);
             return rez;
 
@@ -78,7 +93,12 @@ namespace Laba2_2
         {
             int nom1 = nom;
             int denom1 = denom;
-
+if (nom2 <=0){
+            nom2 = nom2 * -1
+            }
+            if (denom2 <=0){
+            denom2 = denom2 * -1
+            }
             int nom2 = 20;
             int denom2 = 17;
 
